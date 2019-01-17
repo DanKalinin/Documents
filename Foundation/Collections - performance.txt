@@ -1,0 +1,7 @@
+Remarks
+	Consider the worst case
+
+NSArray
+	[] 										1, lg(n)
+	- containsObject:, - indexOfObject: 	n * lg(n)
+	
